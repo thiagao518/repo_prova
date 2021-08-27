@@ -4,16 +4,9 @@
 
 * pasta README.MD: contem informacoes de como escrever com caracteres na  maioria dos lugares do GitHub
 
+* headers
 
-
-
-
-
-
-
-# Headers
-
-*Emphasis*
+* Emphasis*
 
 * Lists
 
